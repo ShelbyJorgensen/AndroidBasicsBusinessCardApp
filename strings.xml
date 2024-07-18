@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCardApp</string>
+    <string name="name">Shelby Jorgensen</string>
+    <string name="title">Android Developer</string>
+    <string name="phone_number">(253) 555-2233</string>
+    <string name="social_media_link">LinkedIn.com/ShelbyJorgensen</string>
+    <string name="email">shelby.jorgensen@email.com</string>
+</resources>
